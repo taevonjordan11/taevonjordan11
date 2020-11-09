@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Learning Habits for SE Students (Part2)](https://blog.usejournal.com/learning-habits-for-se-students-part-2-dc4299df0f35)
-- [Get Yourself a Mechanical Keyboard](hhttps://medium.com/@taevonjordan1/get-yourself-a-mechanical-keyboard-ff443433a036)
+- [Get Yourself a Mechanical Keyboard](https://medium.com/@taevonjordan1/get-yourself-a-mechanical-keyboard-ff443433a036)
 - [Arrow Function VS. Regular function](https://medium.com/@taevonjordan1/arrow-function-vs-regular-function-447762367bb2)
 - [Learning Habits for SE Students (Part1)](https://medium.com/@taevonjordan1/learning-habits-for-se-students-c97f94b8043a)
 <!-- BLOG-POST-LIST:END -->
