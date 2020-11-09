@@ -2,14 +2,15 @@
 
 ## I'm a Developer, Music lover, Producer, and Audio Engineer!!
 
-- 🌱 I’m currently data structures and algorithms 🧬
+- 🔭 I just finished my first React Native Project : [Studi-U NYC][project]!
+- 🌱 I’m currently learning data structures and algorithms 🧬
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to create music and work with other music creators
 
 <!-- ### Spotify Playing 🎧 -->
 
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/1G6Df4r3VM10rXiv6Ry1zl?si=-ixOYFWeQAGTSfhAh2zEDQ) -->
+<!-- [<img src="https://now-playing.vercel.app/api/spotify-playing" alt="taevon Spotify Playing" width="350" />](https://open.spotify.com/track/1G6Df4r3VM10rXiv6Ry1zl?si=-ixOYFWeQAGTSfhAh2zEDQ) -->
 
 ### Connect with me:
 
@@ -64,13 +65,7 @@
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+
+[project]: https://github.com/taevonjordan11/studi-u-frontend
 [linkedin]: https://www.linkedin.com/in/taevon-jordan-477797196/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
