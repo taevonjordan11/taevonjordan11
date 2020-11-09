@@ -52,11 +52,11 @@
 - [Learning Habits for SE Students (Part1)](https://medium.com/@taevonjordan1/learning-habits-for-se-students-c97f94b8043a)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@taevonjordan1)
 
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -74,7 +74,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details> -->
+</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
