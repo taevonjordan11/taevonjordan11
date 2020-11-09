@@ -7,9 +7,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to create music and work with other music creators
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/1G6Df4r3VM10rXiv6Ry1zl?si=-ixOYFWeQAGTSfhAh2zEDQ)
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/1G6Df4r3VM10rXiv6Ry1zl?si=-ixOYFWeQAGTSfhAh2zEDQ) -->
 
 ### Connect with me:
 
