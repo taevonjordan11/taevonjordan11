@@ -1,12 +1,12 @@
 ### Hi there, I'm Taevon 👋
 
-## I'm a Developer, Music lover, Producer, and Audio Engineer!!
+## Software Developer and Music enthusiast !
 
 - 🔭 I just finished my first React Native Project : [Studi-U NYC][project]!
-- 🌱 I’m currently learning data structures and algorithms 🧬
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to create music and work with other music creators
+- 🌱 I’m currently studying data structures and algorithms with python 🧬
+- 💪🏽 I’m looking to land my first dev role
+- 🥅 2021 Goals: Contribute more to open Source projects
+- ⚡ Fun fact: I'm a self taught audio engineer!
 
 <!-- ### Spotify Playing 🎧 -->
 
